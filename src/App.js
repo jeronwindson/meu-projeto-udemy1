@@ -4,6 +4,7 @@ import Pessoa from './components/Pessoa';
 import Frase from './components/Frase';
 import List from './components/List';
 
+
 function App() {
 
   return (
@@ -23,5 +24,6 @@ function App() {
     </div>
   )
 }
+
 
 export default App;
